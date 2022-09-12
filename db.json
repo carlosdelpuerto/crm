@@ -1,0 +1,84 @@
+{
+  "clientes": [
+    {
+      "nombre": "Carlos Emilio",
+      "empresa": "maniaticable",
+      "email": "asd@gmail.com",
+      "telefono": "0982233",
+      "notas": "Muy pro",
+      "id": 1
+    },
+    {
+      "nombre": "Carlos Emilio",
+      "empresa": "maniaticable",
+      "email": "asd@gmail.com",
+      "telefono": "0982233",
+      "notas": "Muy pro",
+      "id": 2
+    },
+    {
+      "nombre": "Carlos Emilio",
+      "empresa": "maniaticable",
+      "email": "asd@gmail.com",
+      "telefono": "0982233",
+      "notas": "Muy pro",
+      "id": 3
+    },
+    {
+      "nombre": "Carlos Emilio",
+      "empresa": "maniaticable",
+      "email": "asd@gmail.com",
+      "telefono": "0982233",
+      "notas": "Muy pro",
+      "id": 4
+    },
+    {
+      "nombre": "Carlos Emilio",
+      "empresa": "maniaticable",
+      "email": "asd@gmail.com",
+      "telefono": "0982233",
+      "notas": "Muy pro",
+      "id": 5
+    },
+    {
+      "nombre": "Carlos Emilio",
+      "empresa": "maniaticable",
+      "email": "asd@gmail.com",
+      "telefono": "0982233",
+      "notas": "Muy pro",
+      "id": 6
+    },
+    {
+      "nombre": "karen",
+      "empresa": "karenGG",
+      "email": "karen@gmail.com",
+      "telefono": "22002",
+      "notas": "Referida",
+      "id": 7
+    },
+    {
+      "nombre": "asd2",
+      "empresa": "maniaticable",
+      "email": "asd@gmail.com",
+      "telefono": "0982233",
+      "notas": "",
+      "id": 8
+    },
+    {
+      "nombre": "Edu",
+      "empresa": "rollreview",
+      "email": "hola@gmail.com",
+      "telefono": "202002",
+      "notas": "anime",
+      "id": 9
+    },
+    {
+      "nombre": "andy",
+      "empresa": "andyGk",
+      "email": "asss22@gmail.com",
+      "telefono": "202020",
+      "notas": "",
+      "id": 10
+    }
+  ]
+}
